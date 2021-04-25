@@ -1,76 +1,124 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Abu Dabi Sports 2" tvg-name="Abu Dabi Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Abu Dabi Sports 3" tvg-name="Abu Dabi Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports" tvg-name="Abu Dhabi Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports ARB" tvg-name="Abu Dhabi Sports ARB" tvg-url="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic",Abu Dhabi Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports 1" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Arabic",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-url="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arabic",Abu Dhabi Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Arabic",Abu Dhabi Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-url="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arabic",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Arabic",Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Action Sports" tvg-name="Action Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="Uncategorized",Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Action Sports 4U" tvg-name="Action Sports 4U" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/K2XHhWW.png" group-title="Uncategorized",Action Sports 4U
-https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4 ARB" tvg-name="Abu Dhabi Sports 4 ARB" tvg-url="" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Arabic",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 4" tvg-name="Abu Dhabi Sports 4" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="Arabic",Abu Dhabi Sports 4
+https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AD Sports 6" tvg-name="AD Sports 6" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="English",Adventure Sports Network (XUMO)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="English",Adventure Sports TV
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #EXTINF:-1 tvg-id="AlKassFive.qa" tvg-name="Al Kass Five" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Arabic",Al Kass Five
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass5pve/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkas5abe/master.m3u8
 #EXTINF:-1 tvg-id="AlKassFour.qa" tvg-name="Al Kass Four" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Arabic",Al Kass Four
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fincy/master.m3u8
-#EXTINF:-1 tvg-id="AlKassOne.qa" tvg-name="Al Kass One" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="" group-title="Arabic",Al Kass One
-http://www.elahmad.com/tv/m3u8/alkass.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass4aobe/master.m3u8
 #EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" group-title="Arabic",Al Kass One
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1vytrsvjs5r/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass1oppe/master.m3u8
 #EXTINF:-1 tvg-id="AlKassOnline.qa" tvg-name="Al Kass Online" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://www.alkass.net/alkass/assets/images/logo.png" group-title="Arabic",Al Kass Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlmtuyvwjhd/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/AlkassOnlineG129/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Kass Sports" tvg-name="Al Kass Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:-1 tvg-id="AlKassTwo.qa" tvg-name="Al Kass Two" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="" group-title="Arabic",Al Kass Two
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2msfjofcxcw/master.m3u8
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2pwi/master.m3u8
+#EXTINF:-1 tvg-id="Alkass sport 1" tvg-name="Alkass sport 1" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Alkass sport 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="Alkass sport 2" tvg-name="Alkass sport 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Alkass sport 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="Alkass sport 3" tvg-name="Alkass sport 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Alkass sport 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-id="Alkass sport 4" tvg-name="Alkass sport 4" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Alkass sport 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-id="Alkass sport 5" tvg-name="Alkass sport 5" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Alkass sport 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-id="All Sports" tvg-name="All Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 tvg-id="AllSports.ir" tvg-name="All Sports" tvg-url="" tvg-country="Iran" tvg-language="Persian" tvg-logo="" group-title="Persian",All Sports
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-name="All Sports" tvg-url="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="Portuguese",All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 tvg-id="ARABIC : Sharjah Sports HD" tvg-name="ARABIC : Sharjah Sports HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",ARABIC : Sharjah Sports HD
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-url="" tvg-country="Morocco" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Arabic",Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-url="" tvg-country="Morocco" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Arabic",Arryadia
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-url="" tvg-country="Malaysia" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Malaysia",Astro SuperSport
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-url="" tvg-country="Malaysia" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Malaysia",Astro SuperSport 2
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="Astro SuperSport 3" tvg-url="" tvg-country="Malaysia" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Malaysia",Astro SuperSport 3
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-url="" tvg-country="Malaysia" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Malaysia",Astro SuperSport 4
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-url="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="Swedish",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-url="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Swedish",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="Uncategorized",Auto Motor Sport
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="AzamSports1HD.tz" tvg-name="Azam Sports 1 HD" tvg-url="" tvg-country="Tanzania" tvg-language="" tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1444752374.jpg" group-title="Tanzania",Azam Sports 1 HD
+https://1446000130.rsc.cdn77.org/1446000130/index.m3u8
+#EXTINF:-1 tvg-id="AzamSports2.tz" tvg-name="Azam Sports 2" tvg-url="" tvg-country="Tanzania" tvg-language="" tvg-logo="https://azamtv.co.tz/tan/thumb/c/124/70/channels/channel_image1508329528.png" group-title="Tanzania",Azam Sports 2
+https://1326605225.rsc.cdn77.org/1326605225/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-url="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Arabic",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" tvg-url="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="" group-title="Arabic",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Bahrain Sports 2" tvg-name="Bahrain Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Bahrain Sports 2
+http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" tvg-url="" tvg-country="Bahrain" tvg-language="Arabic" tvg-logo="" group-title="Arabic",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSports1Asia.qa" tvg-name="beIN Sports 1 Asia" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Qatar",beIN Sports 1 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+#EXTINF:-1 tvg-id="BEIN SPORTS 1 UHD" tvg-name="BEIN SPORTS 1 UHD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",BEIN SPORTS 1 UHD
+http://bazarhd.online:80/307210113151/307210113151/80392
 #EXTINF:-1 tvg-id="beINSports2Asia.qa" tvg-name="beIN Sports 2 Asia" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="" tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="Qatar",beIN Sports 2 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
-#EXTINF:-1 tvg-id="BEIN SPORTS HD" tvg-name="BEIN SPORTS HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="Uncategorized",BEIN SPORTS HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
-#EXTINF:-1 tvg-id="BEIN SPORTS HD ESPAÑOL" tvg-name="BEIN SPORTS HD ESPAÑOL" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="Uncategorized",BEIN SPORTS HD ESPAÑOL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Qatar",beIN SPORTS XTRA
-http://plutotv.vo.llnwd.net/m/hlslive/bein.m3u8?chname=bein&pub=0
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="English" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="English",beIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.qa" tvg-name="beIN SPORTS XTRA" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Qatar" tvg-language="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Qatar",beIN SPORTS XTRA
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-id="BEIN SPORTS 2 UHD" tvg-name="BEIN SPORTS 2 UHD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",BEIN SPORTS 2 UHD
+http://bazarhd.online:80/307210113151/307210113151/80391
+#EXTINF:-1 tvg-id="BEINSPORTS 1 HD" tvg-name="BEINSPORTS 1 HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",BEINSPORTS 1 HD
+http://bazarhd.online:80/307210113151/307210113151/80393
 #EXTINF:-1 tvg-id="BekSportsEast.us" tvg-name="Bek Sports East" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="English",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-id="BekSportsWest.us" tvg-name="Bek Sports West" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="English",Bek Sports West
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableSports.pe" tvg-name="Best Cable Sports" tvg-url="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="Spanish",Best Cable Sports
-https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
+#EXTINF:-1 tvg-id="Best Cable Sports Perú" tvg-name="Best Cable Sports Perú" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Best Cable Sports Perú
+https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
+#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-url="" tvg-country="Norway" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="English",Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="canalmotor.tv" tvg-name="Canal Motor" tvg-url="" tvg-country="Norway" tvg-language="English" tvg-logo="https://i.imgur.com/9z3mzDJ.jpg" group-title="English",Canal Motor
+https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+#EXTINF:-1 tvg-id="CBC Sport" tvg-name="CBC Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="China" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Chinese",CCTV中国中央电视台-5 体育
 http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="China" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="Chinese",CCTV中国中央电视台-5 体育
@@ -93,26 +141,64 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Arabic",Dubai Racing 3
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports" tvg-name="Dubai Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports" tvg-name="Dubai Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="DUBAI SPORTS 1" tvg-name="DUBAI SPORTS 1" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 1
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1
 #EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports 1" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Arabic",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1 HD" tvg-name="Dubai Sports 1 HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 1 HD
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist_b2000000.m3u8
+#EXTINF:-1 tvg-id="DUBAI SPORTS 2" tvg-name="DUBAI SPORTS 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8?2957056943
+#EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 2
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
 #EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Arabic",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DUBAI SPORTS 3" tvg-name="DUBAI SPORTS 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title="Uncategorized",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Dubai Sports 3
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
 #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Arabic",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="Edge Sport" tvg-name="Edge Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="Uncategorized",Edge Sport
+#EXTINF:-1 tvg-id="EdgeSport.uk" tvg-name="Edge Sport" tvg-url="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="English",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Edge Sport" tvg-name="Edge Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Uncategorized",Edge Sport
+#EXTINF:-1 tvg-id="EdgeSport.us" tvg-name="Edge Sport" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="English",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Edge Sport (US)" tvg-name="Edge Sport (US)" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Uncategorized",Edge Sport (US)
+#EXTINF:-1 tvg-id="1b51a6" tvg-name="Edge_Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="Uncategorized",Edge Sport
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EdgeSportUS.us" tvg-name="Edge Sport (US)" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="English",Edge Sport (US)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EDGE Sport" tvg-name="Edge Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" group-title="English",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-id="EdgeSports.us" tvg-name="Edge Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" group-title="English",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGESport" tvg-name="EDGESport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Uncategorized",EDGESport
+#EXTINF:-1 tvg-id="EDGESportSTIRR.us" tvg-name="EDGESport (STIRR)" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="English",EDGESport (STIRR)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports (UK)" tvg-name="Eleven Sports (UK)" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Uncategorized",Eleven Sports (UK)
+#EXTINF:-1 tvg-id="ElevenSports.uk" tvg-name="Eleven Sports" tvg-url="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="English",Eleven Sports
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="I25.8.97125.zap2it.com" tvg-name="25.8" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="Uncategorized",EPG | TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 tvg-id="ERTSPORTS.gr" tvg-name="ERT SPORTS" tvg-url="" tvg-country="Greece" tvg-language="" tvg-logo="https://i.imgur.com/SgiGEUK.png" group-title="Greece",ERT SPORTS
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 tvg-id="ERTSPORTS2.gr" tvg-name="ERT SPORTS 2" tvg-url="" tvg-country="Greece" tvg-language="" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Greece",ERT SPORTS 2
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8
+#EXTINF:-1 tvg-id="ERTSPORTS3.gr" tvg-name="ERT SPORTS 3" tvg-url="" tvg-country="Greece" tvg-language="" tvg-logo="https://i.imgur.com/zG9dFQp.jpg" group-title="Greece",ERT SPORTS 3
+http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",ESPN
 https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",ESPN 2
@@ -125,6 +211,8 @@ https://gma2.blab.email/espnu.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-url="https://www.tdtchannels.com/epg/TV.xml" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="Spanish",Esport3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="ESR 24x7 | eSports Revolution" tvg-name="ESR 24x7 | eSports Revolution" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ESR24x7_180x180.png?raw=true" group-title="Uncategorized",ESR 24x7 | eSports Revolution
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FCBayernMunchenTV.de" tvg-name="FC Bayern München TV" tvg-url="" tvg-country="Germany" tvg-language="German" tvg-logo="https://i.imgur.com/b6tcf2i.jpg" group-title="German",FC Bayern München TV
 https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/master.m3u8
 #EXTINF:-1 tvg-id="FightBox.us" tvg-name="Fight Box" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" group-title="English",Fight Box
@@ -133,12 +221,8 @@ http://ott-cdn.ucom.am/s86/index.m3u8
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="FightSports.us" tvg-name="Fight Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="English",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="FOX SPORT 2 HD" tvg-name="FOX SPORT 2 HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://4.bp.blogspot.com/-7LCisvwdtnE/W5lerwLc4jI/AAAAAAAAAc0/ctzvBb4_L3AKk7I4lvlYdv59M91fVcQjgCLcBGAs/s1600/fox-sports2.png" group-title="Uncategorized",FOX SPORT 2 HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
-#EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",FOX Sport HD 1
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="FOX Sports" tvg-name="FOX Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Uncategorized",FOX Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="FOX Sports (Pluto TV)" tvg-name="FOX Sports (Pluto TV)" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",FOX Sports (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-name="Fox Sports 2 Asia" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",Fox Sports 2 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 3 Asia" tvg-name="Fox Sports 3 Asia" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Uncategorized",Fox Sports 3 Asia
@@ -147,18 +231,22 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FoxSportsAsia.us" tvg-name="Fox Sports Asia" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",Fox Sports Asia
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-name="FOX SPORTS HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="Uncategorized",FOX SPORTS HD
-http://ipeteve.com/php/SR_REGIO270221/tv3.php?c=1873_&f=.m3u8
-#EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-name="FOX SPORTS HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png" group-title="Uncategorized",FOX SPORTS HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1 tvg-id="FOXSportsHD1.us" tvg-name="FOX Sports HD 1" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",FOX Sports HD 1
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1 tvg-id="GEMFit.ir" tvg-name="GEM Fit" tvg-url="" tvg-country="Iran" tvg-language="Persian" tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_fit.png?14" group-title="Persian",GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="GOLFNETWORK.us" tvg-name="GOLF NETWORK" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",GOLF NETWORK
 http://203.162.235.41:16924
+#EXTINF:-1 tvg-id="Halow Sport HD" tvg-name="Halow Sport HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Halow Sport HD
+http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:-1 tvg-id="Halow Sport HD" tvg-name="Halow Sport HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Halow Sport HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/137
 #EXTINF:-1 tvg-id="Horizon Sports" tvg-name="Horizon Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="Uncategorized",Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 #EXTINF:-1 tvg-id="HorizonSports.us" tvg-name="Horizon Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/2msWdzQ.jpg" group-title="English",Horizon Sports
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Jordan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" group-title="Arabic",Jordan Sport TV
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
+#EXTINF:-1 tvg-id="JTBCGolfSports.kr" tvg-name="JTBC Golf&Sports" tvg-url="" tvg-country="South Korea" tvg-language="" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00805.png" group-title="South Korea",JTBC Golf&Sports
+http://121.130.84.30:9999/klive/api/url.m3u8?m=url&s=tving&i=C00805&q=SD&apikey=cit1254678
 #EXTINF:-1 tvg-id="KBPSPORTS.us" tvg-name="KBP SPORTS" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",KBP SPORTS
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KOKFights.lt" tvg-name="KOK Fights" tvg-url="https://iptvx.one/epg/epg.xml.gz" tvg-country="Lithuania" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/387jXC7.jpg" group-title="Lithuanian",KOK Fights
@@ -167,26 +255,30 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Kuwait" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Arabic",KTV Sport Plus
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="" group-title="Romanian",LookSport
+#EXTINF:-1 tvg-id="Lax Sports Network TV" tvg-name="Lax Sports Network TV" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Uncategorized",Lax Sports Network TV
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="LookSport.ro" tvg-name="LookSport" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uaJQZrv.png" group-title="Romanian",LookSport
 https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="" group-title="Romanian",LookSport 2
+#EXTINF:-1 tvg-id="LookSport2.ro" tvg-name="LookSport 2" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="https://i.imgur.com/uJzkQGv.png" group-title="Romanian",LookSport 2
 https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-id="LookSport3.ro" tvg-name="LookSport 3" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="" group-title="Romanian",LookSport 3
+#EXTINF:-1 tvg-id="LookSport3.ro" tvg-name="LookSport 3" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="https://i.imgur.com/IBJEjG0.png" group-title="Romanian",LookSport 3
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-name="LookSport Plus" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="" group-title="Romanian",LookSport Plus
+#EXTINF:-1 tvg-id="LookSportPlus.ro" tvg-name="LookSport Plus" tvg-url="" tvg-country="Romania" tvg-language="Romanian" tvg-logo="https://i.imgur.com/yPWvZLq.png" group-title="Romanian",LookSport Plus
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenendtime=1608539469&wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&wowzatokenstarttime=1608496269
-#EXTINF:-1 tvg-id="MAVTV Motor Sports" tvg-name="MAVTV Motor Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="Uncategorized",MAVTV Motor Sports
+#EXTINF:-1 tvg-id="maroc SPORT" tvg-name="maroc SPORT" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",maroc SPORT
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="MavTV.us" tvg-name="MavTV" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/CqAhL91.png" group-title="English",MavTV
 https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" group-title="English",MLB Network
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="MLS" tvg-name="MLS" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="English",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 tvg-id="MMAJunkie.us" tvg-name="MMA Junkie" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/s5NcNef.png" group-title="English",MMA Junkie
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="MMN.us" tvg-name="MMN" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="" group-title="English",MMN
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-url="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Spanish",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 tvg-id="MotorSportTV.fr" tvg-name="MotorSport.TV" tvg-url="" tvg-country="France" tvg-language="French" tvg-logo="https://i.imgur.com/cVCb02R.jpg" group-title="French",MotorSport.TV
+https://alchimie-motor-sport-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-url="" tvg-country="Japan" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="English",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="NewTVWeiLaiDianShiJingPinTiYu.cn" tvg-name="NewTV未来电视 精品体育" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" tvg-country="China" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426222R1296.jpg" group-title="Chinese",NewTV未来电视 精品体育
@@ -195,26 +287,58 @@ http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="Oman" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="Arabic",Oman Sport
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="One Sports" tvg-url="" tvg-country="Philippines" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/ruTQs2i.png" group-title="Tagalog",One Sports
-http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oman Sports" tvg-name="Oman Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Oman Sports
+http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-name="ORF Sport +" tvg-url="" tvg-country="Austria" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="German",ORF Sport +
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="Pluto TV Action Sports" tvg-name="Pluto TV Action Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Uncategorized",Pluto TV Action Sports
+#EXTINF:-1 tvg-id="Pluto TV Action Sports" tvg-name="Pluto TV Action Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=759&deviceId=5db867744f229f0009266784&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ActionSports.us" tvg-name="Action Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="English",Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-name="Pluto TV Action Sports" tvg-url="" tvg-country="Switzerland" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="French",Pluto TV Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Pluto TV Action Sports" tvg-name="Pluto TV Action Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Uncategorized",Pluto TV Action Sports
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-name="Pluto TV Action Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="English",Pluto TV Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Uncategorized",Pluto TV Sports
+#EXTINF:-1 tvg-id="Pluto TV Auto Motor Sport" tvg-name="Pluto TV Auto Motor Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV Auto Motor Sport
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&deviceId=5f760c3d41aa2d0007bfde19&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="AutoMotorSport.us" tvg-name="Auto Motor Sport" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="English",Pluto TV Auto Motor Sport
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="Pluto TV beIN SPORTS XTRA" tvg-name="Pluto TV beIN SPORTS XTRA" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV beIN SPORTS XTRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="FOXSports.us" tvg-name="FOX Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="English",Pluto TV FOX Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="FoxSportspluto.us" tvg-name="Fox Sports pluto" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="English",Pluto TV Fox Sports pluto
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-id="MLS" tvg-name="MLS" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/6t7x61s.png" group-title="English",Pluto TV MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="Pluto TV Pluto Action Sports" tvg-name="Pluto TV Pluto Action Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV Pluto Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&deviceId=5be1be871843b56328bc3ef1&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="Pluto TV SPORT : BeIN Sports Xtra" tvg-name="Pluto TV SPORT : BeIN Sports Xtra" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV SPORT : BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
+#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=725&deviceId=56340779a738201b4ccfeac9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Pluto TV Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&deviceId=5ad9bb941b95267e225e59c2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="English",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="Uncategorized",Pluto TV Sports
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="English",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="Pluto TV Sports" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Uncategorized",Pluto TV Sports
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-name="Pluto TV Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="English",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="UnbeatenEsports.us" tvg-name="Unbeaten Esports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="English",Pluto TV Unbeaten Esports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-url="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="" group-title="Urdu",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk" tvg-name="PTV Sports" tvg-url="" tvg-country="Pakistan" tvg-language="Urdu" tvg-logo="" group-title="Urdu",PTV Sports
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RACINGCOM.au" tvg-name="RACING.COM" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" tvg-country="Australia" tvg-language="English" tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="English",RACING.COM
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Uncategorized",Rai Sport
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 tvg-id="Rai Sport (Geo)" tvg-name="Rai Sport (Geo)" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Rai Sport (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 tvg-id="RaiSportPlus.it" tvg-name="Rai Sport+" tvg-url="" tvg-country="Italy" tvg-language="" tvg-logo="" group-title="Italy",Rai Sport+
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-id="Rai Sport+ (Geo)" tvg-name="Rai Sport+ (Geo)" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Rai Sport+ (Geo)
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-url="https://www.tdtchannels.com/epg/TV.xml" tvg-country="Spain" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-url="https://www.tdtchannels.com/epg/TV.xml" tvg-country="Spain" tvg-language="Spanish" tvg-logo="" group-title="Spanish",Real Madrid TV
@@ -237,59 +361,79 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMSports.my" tvg-name="RTM Sports" tvg-url="" tvg-country="Malaysia" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyMensSevens.ie" tvg-name="Rugby Men's Sevens" tvg-url="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://i.imgur.com/dIzAmT0.png" group-title="English",Rugby Men's Sevens
-https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyWomensSevens.ie" tvg-name="Rugby Women's Sevens" tvg-url="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://i.imgur.com/HZp8PAw.png" group-title="English",Rugby Women's Sevens
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyWorldTV.ie" tvg-name="Rugby World TV" tvg-url="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://i.imgur.com/xVgXmS2.jpg" group-title="English",Rugby World TV
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-id="RTSHSport.al" tvg-name="RTSH Plus" tvg-url="" tvg-country="Albania" tvg-language="Albanian" tvg-logo="http://albepg.com/tvlogi/RTSH Plus.png" group-title="Albanian",RTSH Sport
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-name="San Marino RTV Sport" tvg-url="" tvg-country="San Marino" tvg-language="Italian" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Italian",San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
+#EXTINF:-1 tvg-id="Setanta Sports +" tvg-name="Setanta Sports +" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Setanta Sports +
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
 #EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie" tvg-name="Setanta Sports 2 Eurasia" tvg-url="" tvg-country="Russia" tvg-language="Russian" tvg-logo="" group-title="Russian",Setanta Sports 2 Eurasia
 http://ott-cdn.ucom.am/s82/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsEurasia.ie" tvg-name="Setanta Sports Eurasia" tvg-url="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="Russian",Setanta Sports Eurasia
 http://ott-cdn.ucom.am/s81/index.m3u8
+#EXTINF:-1 tvg-id="SHARJA SPORTS" tvg-name="SHARJA SPORTS" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",SHARJA SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sport" tvg-name="Sharjah Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
 #EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Arabic",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SkiTV.uk" tvg-name="Ski TV" tvg-url="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="English",Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-name="Snowy Mountains Television" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" tvg-country="Australia" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="English",Snowy Mountains Television
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
 #EXTINF:-1 tvg-id="Sport1.ua" tvg-name="Sport 1" tvg-url="https://iptvx.one/epg/epg.xml.gz" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="Ukrainian",Sport 1
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-id="Sport en France" tvg-name="Sport en France" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="Uncategorized",Sport en France
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-name="Sport en France" tvg-url="" tvg-country="France" tvg-language="French" tvg-logo="https://i.imgur.com/6L6hQnn.png" group-title="French",Sport en France
 https://alchimie-sport-en-france-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORT TV Plus" tvg-name="SPORT TV Plus" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Ot9wh52.png" group-title="Uncategorized",SPORT TV Plus
 https://nrpus.bozztv.com/36bay2/gusa-sporttvplus/index.m3u8
-#EXTINF:-1 tvg-id="Sports Channel Network" tvg-name="Sports Channel Network" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="Uncategorized",Sports Channel Network
+#EXTINF:-1 tvg-id="SportsChannelNetwork.uk" tvg-name="Sports Channel Network" tvg-url="" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://i.imgur.com/trfRIem.png" group-title="English",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports Grid" tvg-name="Sports Grid" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/T2Opptd.jpg" group-title="Uncategorized",Sports Grid
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="SPORTS NORTHWEST HD" tvg-name="SPORTS NORTHWEST HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni2sEwKV9Vtwtzd8dQE4NBWTVf-ELFDrDF_HD6-=s900-c-k-c0x00ffffff-no-rj" group-title="Uncategorized",SPORTS NORTHWEST HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/649
+#EXTINF:-1 tvg-id="Sports Grid" tvg-name="Sports Grid" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Sports Grid
+https://sportsgrid-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5ef11485d33ab9004048a1ca/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/1280x720_2855600/index.m3u8
 #EXTINF:-1 tvg-id="Sports Tonight" tvg-name="Sports Tonight" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Uncategorized",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPORTS TV" tvg-name="SPORTS TV" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-id="Sports TV" tvg-name="Sports TV" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Uncategorized",Sports TV
 https://live.sportstv.com.tr/hls/low/sportstv_sd/index.m3u8?hash=ff9087a17e9ff7a7a214048d240d21c0
-#EXTINF:-1 tvg-id="Sports TV Plus" tvg-name="Sports TV Plus" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="Uncategorized",Sports TV Plus
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="English",Sports TV Plus
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 tvg-id="139b9f" tvg-name="SportsGrid" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7gC2ip9.png" group-title="Uncategorized",SportsGrid
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid Network" tvg-name="SportsGrid Network" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Uncategorized",SportsGrid Network
+https://sportsgrid-xumo-us.amagi.tv/xumo.m3u8
 #EXTINF:-1 tvg-id="Sportskool.us" tvg-name="Sportskool" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/1ZKpTT5.jpg" group-title="English",Sportskool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="SPORTSMAN CHANNEL" tvg-name="SPORTSMAN CHANNEL" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",SPORTSMAN CHANNEL
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
-#EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax" tvg-url="" tvg-country="Jamaica" tvg-language="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="English",SportsMax
-http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 tvg-id="Sportskool TV" tvg-name="Sportskool TV" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Uncategorized",Sportskool TV
+https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
 #EXTINF:-1 tvg-id="SportsMax.jm" tvg-name="SportsMax" tvg-url="" tvg-country="Jamaica" tvg-language="English" tvg-logo="" group-title="English",SportsMax
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 tvg-id="SPORTVL" tvg-name="SPORTVL" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",SPORTVL
 https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="ST-TV | Edge Sports" tvg-name="ST-TV | Edge Sports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="Uncategorized",ST-TV | Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ST-TV | Lax Sports Network" tvg-name="ST-TV | Lax Sports Network" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjZf/LSN_720x720.png" group-title="Uncategorized",ST-TV | Lax Sports Network
+https://live.serverside.ai/hls/4a34ba0f-2ffd-47cf-9f8d-5e91ede78e5a/master.m3u8?channel_partner=Lacrosse+Channel&channel_name=Lacrosse+Channel&content_genre=Lacrosse&api-key=50f33b8a-4a95-4f68-b83a-2f2b00c4251d&gdpr=1&mute=false&consent=&vid=11e1c5cf_20210305163000_D0CF72b&content_id=11e1c5cf_20210305163000_D0CF72b&ip=194.35.233.10&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F88.0.4324.150+Safari%2F537.36+OPR%2F74.0.3911.160&t=2021-03-05T16%3A30%3A00.000
+#EXTINF:-1 tvg-id="ST-TV | SportsGrid" tvg-name="ST-TV | SportsGrid" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Uncategorized",ST-TV | SportsGrid
+https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="English",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-url="" tvg-country="Afghanistan" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="English",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="StarSports2HD.hk" tvg-name="Star Sports 2 HD" tvg-url="" tvg-country="Hong Kong" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Star_Sports_India_logo1.png" group-title="English",Star Sports 2 HD
+http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" group-title="English",STIRR Sports
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-url="" tvg-country="Switzerland" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="English",Swiss Sport TV
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-id="SWISS Sport TV 24/7" tvg-name="SWISS Sport TV 24/7" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg" group-title="Uncategorized",SWISS Sport TV 24/7
+#EXTINF:-1 tvg-id="SWISSSportTV247.ch" tvg-name="SWISS Sport TV 24/7" tvg-url="" tvg-country="Switzerland" tvg-language="German" tvg-logo="https://i.imgur.com/lTqP4Ij.jpg" group-title="German",SWISS Sport TV 24/7
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/master.m3u8
-#EXTINF:-1 tvg-id="TDM Sports Macau" tvg-name="TDM Sports Macau" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Uncategorized",TDM Sports Macau
+#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-name="TDM Sports Macau" tvg-url="" tvg-country="Macao" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Chinese",TDM Sports Macau
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-url="" tvg-country="Colombia" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" group-title="Spanish",Telecaribe Deportes 2
 https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
@@ -299,8 +443,22 @@ https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k
 https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="The Tennis Channel" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="English",The Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 tvg-id="TIGO SPORT HD" tvg-name="TIGO SPORT HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://ya.co.ve/rBx" group-title="Uncategorized",TIGO SPORT HD
-http://tecnotv.club/got/smtv3.php?c=800
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-url="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Portuguese",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-url="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Portuguese",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-url="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Portuguese",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-url="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Portuguese",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-url="" tvg-country="France" tvg-language="" tvg-logo="" group-title="France",Trace Sport Stars
+https://mj1b2xsspj.singularcdn.net.br/trace/tss/6/prog_index.m3u8
+#EXTINF:-1 tvg-id="Turkmenistan Sport" tvg-name="Turkmenistan Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 tvg-id="tv2.no" tvg-name="tv2 - Sport" tvg-url="" tvg-country="Norway" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/SCeh3KR.png" group-title="Norwegian Bokmål",tv2 - Sport
+https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
+#EXTINF:-1 tvg-id="TVMatic Sport" tvg-name="TVMatic Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Uncategorized",TVMatic Sport
+http://cdn.tvmatic.net/sport.m3u8
 #EXTINF:-1 tvg-id="TVRISportHD.id" tvg-name="TVRI Sport HD" tvg-url="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/zjh63nC.jpg" group-title="Indonesian",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="English",TVS Boxing
@@ -309,6 +467,8 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="English",TVS Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="English",TVS Sports Bureau
+https://nrpus.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="English",TVS Women Sports
 https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-url="" tvg-country="Turkmenistan" tvg-language="Turkmen" tvg-logo="" group-title="Turkmen",Türkmenistan Sport
@@ -321,14 +481,20 @@ http://217.174.225.146/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-name="Türkmenistan Sport" tvg-url="" tvg-country="Turkmenistan" tvg-language="Turkmen" tvg-logo="http://tv-online.in/wp-content/uploads/2015/09/Turkmen-sport-logo.jpg" group-title="Turkmen",Türkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="Unbeaten Esports" tvg-name="Unbeaten Esports" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="Uncategorized",Unbeaten Esports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="US SPORT Tennis Plus 1" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="English",US SPORT Tennis Plus 1
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-id="ViasatSport.se" tvg-name="Viasat Sport" tvg-url="" tvg-country="Sweden" tvg-language="Swedish" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="Swedish",Viasat Sport
+#EXTINF:-1 tvg-id="Viasat Sport" tvg-name="Viasat Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Viasat Sport
+http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
+#EXTINF:-1 tvg-id="ViasatSportEast.se" tvg-name="Viasat Sport East" tvg-url="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="Russian",Viasat Sport East
 https://persik.by/stream/2944/263250/10249.m3u8
-#EXTINF:-1 tvg-id="ViasatSportEast.se" tvg-name="Viasat Sport East" tvg-url="" tvg-country="Russia" tvg-language="Russian" tvg-logo="" group-title="Russian",Viasat Sport East
+#EXTINF:-1 tvg-id="ViasatSportEast.se" tvg-name="Viasat Sport East" tvg-url="" tvg-country="Russia" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png" group-title="Russian",Viasat Sport East
 https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-id="Viasat Sport HD" tvg-name="Viasat Sport HD" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Viasat Sport HD
+http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-url="" tvg-country="Colombia" tvg-language="" tvg-logo="" group-title="Colombia",Win Sports+
+http://latinoamericatv.vip:3334/Kaka/Kaka/1385
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-name="Win Sports+" tvg-url="" tvg-country="Colombia" tvg-language="" tvg-logo="" group-title="Colombia",Win Sports+
+http://saypopular.com:25461/oscar/20gar/52853
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-url="" tvg-country="Germany" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="German",World of Freesports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-url="" tvg-country="Germany" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="German",World of Freesports
@@ -337,8 +503,14 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="World Poker Tour" tvg-url="" tvg-country="United States" tvg-language="English" tvg-logo="https://i.imgur.com/Nus9e8M.jpg" group-title="English",World Poker Tour
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 tvg-id="Xumo | 719 SportsGrid" tvg-name="Xumo | 719 SportsGrid" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Uncategorized",Xumo | 719 SportsGrid
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Xumo | 722 EDGEsport" tvg-name="Xumo | 722 EDGEsport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Uncategorized",Xumo | 722 EDGEsport
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 #EXTINF:-1 tvg-id="YasTV.ae" tvg-name="Yas TV" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" tvg-country="United Arab Emirates" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Arabic",Yas TV
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Астрахань.Ru Sport" tvg-name="Астрахань.Ru Sport" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-url="https://iptvx.one/epg/epg.xml.gz" tvg-country="Russia" tvg-language="Russian" tvg-logo="" group-title="Russian",Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-url="https://iptvx.one/epg/epg.xml.gz" tvg-country="Russia" tvg-language="Russian" tvg-logo="" group-title="Russian",Астрахань.Ru Sport
@@ -365,3 +537,5 @@ https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-id="Futbol2.ua" tvg-name="Футбол 2" tvg-url="https://iptvx.one/epg/epg.xml.gz" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/e7E9Of9.jpg" group-title="Ukrainian",Футбол 2
 https://95-213-224-183.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-id="البحرين الرياضية" tvg-name="البحرين الرياضية" tvg-url="" tvg-country="" tvg-language="" tvg-logo="" group-title="Uncategorized",البحرين الرياضية
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
